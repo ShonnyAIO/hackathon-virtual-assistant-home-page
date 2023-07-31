@@ -1,4 +1,3 @@
-# proyecto-2-talentobankrrhh
-Repositorio del desarrollo del proyecto de talentobankrrhh-2
+# Virtual Assitant Hackathon
 
-Es un Landing Page del emprendedimiento de TalentoBankRRHH-2
+This web page is for hackathon ElevenLabs (July 28 - July 31)
